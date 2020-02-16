@@ -5,7 +5,6 @@
 <h2 align="center">  :worried: How to play ? </h2>
 <p align="center"> Run <strong>test_drive.py</strong> file and click on Play button</p>
 <p align="center"> Move right by pressing :arrow_right: right arrow key </p>
-<p align="center"> Move right by pressing :arrow_right: right arrow key </p>
 <p align="center"> Move left by pressing :arrow_left: left arrow key </p>
 <p align="center"> Press  :heavy_minus_sign: space for fire </p>
 
