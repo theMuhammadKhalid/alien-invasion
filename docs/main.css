@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: medium;
+    text-align: center;  
+}
+
+header{
+    font: 100% 'Press Start 2P', cursive;
+}
+
+#main-content{
+    font: 100% 'Arial', 'sans-serif';
+}
+
+h2{
+    font: 250% 'Nanum Pen Script', cursive;
+}
+
+#demo{
+    max-width: 100%;
+}
+
+.sub-heading{
+    font: 200% 'Arial', 'sans-serif';
+    border-bottom:  2px solid black;
+}
+
+p{
+    font: 100%/1.5em 'Arial', 'sans-serif';
+}
+
+code{
+    font-weight: bold;
+	background-color: rgba(181, 191, 201, 0.507);
+    border-radius: 3px;
+    font-family: 'Source Code Pro', 'monospace', 'sans-serif';
+}
+
+footer{
+}
